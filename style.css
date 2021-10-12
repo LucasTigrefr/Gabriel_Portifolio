@@ -255,7 +255,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: rgb(233, 7, 56);
+	background-color: rgb(60, 7, 233);
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
@@ -321,7 +321,7 @@ p {
 
 
 #service-3{
-	background-image: url(img/funcional.jpg);
+	background-image: url(img/Funcional.jpg);
 }
 #service-4{
 	background-image: url(img/Sport.jpg);
